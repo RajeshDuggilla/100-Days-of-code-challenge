@@ -1,1 +1,1 @@
-# 100-Days-of-code-challenge
+# 100-Days-of-coding-challenge
